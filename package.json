@@ -7,7 +7,6 @@
     "sass":"node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Brandon Chin",
-  "license": "MIT",
   "dependencies": {
     "node-sass": "^4.9.2"
   }
